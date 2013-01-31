@@ -5,5 +5,5 @@ Saved the world
 --bad
 ic2.api.EnergyNet.addTileEntity
 at thermalexpansion.energy.TileEnergyConduit.onChunkUnload
---searchwindow
-36000
+--ignore
+\[INFO\] <.*> .*
